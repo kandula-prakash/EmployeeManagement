@@ -1,0 +1,4 @@
+C:\Users\prakash kandula\source\repos\EmployeeManagement\EmployeeManagementTest\obj\Debug\netcoreapp3.1\EmployeeManagementTest.csproj.AssemblyReference.cache
+C:\Users\prakash kandula\source\repos\EmployeeManagement\EmployeeManagementTest\obj\Debug\netcoreapp3.1\EmployeeManagementTest.AssemblyInfoInputs.cache
+C:\Users\prakash kandula\source\repos\EmployeeManagement\EmployeeManagementTest\obj\Debug\netcoreapp3.1\EmployeeManagementTest.AssemblyInfo.cs
+C:\Users\prakash kandula\source\repos\EmployeeManagement\EmployeeManagementTest\obj\Debug\netcoreapp3.1\EmployeeManagementTest.csproj.CoreCompileInputs.cache
